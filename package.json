@@ -6,6 +6,6 @@
     "start": "patternplate start"
   },
   "devDependencies": {
-    "@patternplate/cli": "^2.0.0-49"
+    "@patternplate/cli": "^2.0.0-67"
   }
 }
